@@ -56,4 +56,4 @@ echo -e "\e[31m`cat /tmp/who` \e[0m"
 ##########################
 free -h > /tmp/ramcache
 
-
+echo "HI git"
